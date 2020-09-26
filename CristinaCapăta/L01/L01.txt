@@ -1,0 +1,15 @@
+StackOverflow permite utilizatorilor să publice diferite întrebări referitoare la 
+aspecte din domeniul IT, să adauge răspunsuri la întrebările altor utilizatori,
+dar și să caute diferite locuri de muncă. În cazul companiilor, platforma permite
+distribuirea cunoșțințelor din domeniul în care aceasta activează, promovarea produselor 
+pe care le dezvoltă, dar și căutarea candidaților potriviți pe posturile vacante.
+
+Cerință aplicație:
+Pentru a facilita procesul de înscriere, o organizație de tineret a decis să utilizeze o 
+aplicație. 
+Aceasta permite organizației să afișeze informații privind diferitele sarcini
+pe care le au tinerii din cadrul acesteia și informații privind eventualele posturi vacante
+din conducerea ei. Conducerea organizației poate seta termene limită pentru trimiterea 
+scrisorilor de intenție ale tinerilor care doresc să se înscrie sau să candideze și numărul 
+maxim de locuri disponibile. În timpul procesului de selectie, tinerii vor putea urmari câte
+locuri mai sunt disponibile.
